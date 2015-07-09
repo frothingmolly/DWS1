@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbc13265-2df3-4195-bbbc-35df1cc9aad4" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/BOXER.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/Boxer.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/DSC01977.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/DSC02010.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/DSC02036.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/DSC_0005.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/HOP.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/SC Brewery Map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/South Carolina Beers.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/Title.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/acbwmap.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/bottle cherries.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/food_hops.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/lotsofhops.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/me.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Project 1/Pylant-John-Project1.html" afterPath="$PROJECT_DIR$/Project 1/Pylant-John-Project1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DWS1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -53,8 +39,8 @@
       <file leaf-file-name="Pylant-John-Project1.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Project 1/Pylant-John-Project1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.446281">
-              <caret line="174" column="12" selection-start-line="174" selection-start-column="12" selection-end-line="174" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.47933885">
+              <caret line="118" column="12" selection-start-line="118" selection-start-column="12" selection-end-line="118" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -286,8 +272,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Project 1/Pylant-John-Project1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.446281">
-          <caret line="174" column="12" selection-start-line="174" selection-start-column="12" selection-end-line="174" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.47933885">
+          <caret line="118" column="12" selection-start-line="118" selection-start-column="12" selection-end-line="118" selection-end-column="12" />
           <folding />
         </state>
       </provider>
