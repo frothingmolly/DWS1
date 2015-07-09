@@ -38,8 +38,8 @@
       <file leaf-file-name="Pylant-John-Project1.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Project 1/Pylant-John-Project1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8023064">
-              <caret line="56" column="128" selection-start-line="0" selection-start-column="0" selection-end-line="61" selection-end-column="7" />
+            <state vertical-scroll-proportion="1.3953872">
+              <caret line="62" column="11" selection-start-line="62" selection-start-column="11" selection-end-line="62" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -144,8 +144,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="recentsLimit" value="5" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.Pylant-John-Project1.html">
+    <configuration default="false" name="Pylant-John-Project1.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DWS1/Project 1/Pylant-John-Project1.html">
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -184,8 +188,19 @@
       <envs />
       <method />
     </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Pylant-John-Project1.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Pylant-John-Project1.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="fbc13265-2df3-4195-bbbc-35df1cc9aad4" name="Default" comment="" />
@@ -248,8 +263,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Project 1/Pylant-John-Project1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8023064">
-          <caret line="56" column="128" selection-start-line="0" selection-start-column="0" selection-end-line="61" selection-end-column="7" />
+        <state vertical-scroll-proportion="1.3953872">
+          <caret line="62" column="11" selection-start-line="62" selection-start-column="11" selection-end-line="62" selection-end-column="11" />
           <folding />
         </state>
       </provider>
