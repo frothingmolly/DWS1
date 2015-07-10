@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fbc13265-2df3-4195-bbbc-35df1cc9aad4" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Depot/BOXER.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Depot/Boxer.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Depot/HOP.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Depot/SC Brewery Map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Depot/South Carolina Beers.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Depot/Title.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Depot/acbwmap.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Depot/food_hops.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Depot/lotsofhops.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Depot/me.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/LG/cherry cover.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/cherry coverSM.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Project 1/Pylant-John-Project1.html" afterPath="$PROJECT_DIR$/Project 1/Pylant-John-Project1.html" />
-    </list>
+    <list default="true" id="fbc13265-2df3-4195-bbbc-35df1cc9aad4" name="Default" comment="" />
     <ignored path="DWS1.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
