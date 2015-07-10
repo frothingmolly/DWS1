@@ -2,34 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbc13265-2df3-4195-bbbc-35df1cc9aad4" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/Blue Tarp.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/CC Athena.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/Fisticuffs.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/Fndrs KBS.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/GA Beerfest.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/Gloves LG.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/HoneySuckle.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/Hourglass Front.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/Hourglass Tanks.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/Mexican Cake.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/POSTCARD.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/Terrapin Anniv Carnival.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/Terrapin Carnival.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/Terrapin Fermenters.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/Terrapin Sign.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/Terrapin SignSM.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/Wrecking Bar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/Wrecking BarSM.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/cherry cover.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Project 1/Images/hourglass schizandra.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Project 1/Images/FisticuffsSM.jpg" afterPath="$PROJECT_DIR$/Project 1/Images/FisticuffsSM.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Project 1/Images/HoneySuckleSM.jpg" afterPath="$PROJECT_DIR$/Project 1/Images/HoneySuckleSM.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Project 1/Images/Hourglass FrontSM.jpg" afterPath="$PROJECT_DIR$/Project 1/Images/Hourglass FrontSM.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Project 1/Images/Hourglass TanksSM.jpg" afterPath="$PROJECT_DIR$/Project 1/Images/Hourglass TanksSM.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Project 1/Images/Terrapin CarnivalSM.jpg" afterPath="$PROJECT_DIR$/Project 1/Images/Terrapin CarnivalSM.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Project 1/Images/Terrapin FermentersSM.jpg" afterPath="$PROJECT_DIR$/Project 1/Images/Terrapin FermentersSM.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Project 1/Images/Terrapin Sign ALT.jpg" afterPath="$PROJECT_DIR$/Project 1/Images/Terrapin Sign ALT.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Project 1/Images/cherry coverSM.jpg" afterPath="$PROJECT_DIR$/Project 1/Images/cherry coverSM.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Project 1/Pylant-John-Project1.html" afterPath="$PROJECT_DIR$/Project 1/Pylant-John-Project1.html" />
     </list>
     <ignored path="DWS1.iws" />
@@ -66,8 +38,8 @@
       <file leaf-file-name="Pylant-John-Project1.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Project 1/Pylant-John-Project1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.75206614">
-              <caret line="260" column="12" selection-start-line="260" selection-start-column="12" selection-end-line="260" selection-end-column="12" />
+            <state vertical-scroll-proportion="3.231405">
+              <caret line="158" column="71" selection-start-line="158" selection-start-column="71" selection-end-line="158" selection-end-column="71" />
               <folding />
             </state>
           </provider>
@@ -299,8 +271,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Project 1/Pylant-John-Project1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.75206614">
-          <caret line="260" column="12" selection-start-line="260" selection-start-column="12" selection-end-line="260" selection-end-column="12" />
+        <state vertical-scroll-proportion="3.231405">
+          <caret line="158" column="71" selection-start-line="158" selection-start-column="71" selection-end-line="158" selection-end-column="71" />
           <folding />
         </state>
       </provider>
