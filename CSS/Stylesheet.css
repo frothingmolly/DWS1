@@ -12,14 +12,22 @@ h1, h2, h3{
     color: #45b545;
 }
 
+h1 {
+    align-content: center;
+}
+
 p {
     color: #665544;
 }
 
 strong {
-    color: #45b545;
+    color: #577F57;
 }
 
 em {
+    color: #348888;
+}
+
+#name {
     color: #45b545;
 }
