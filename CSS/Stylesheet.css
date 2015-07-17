@@ -5,10 +5,7 @@ body { /* overall style for page */
     font-style: normal;
     line-height: 25px;
     text-align: left;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: auto;
-    margin-bottom: auto;
+        margin: 0 auto;
 }
 
 #container { /* style for div/container */
@@ -26,18 +23,26 @@ IMG.Logo{ /* Logo on top and bottom of page are centered */
 
 h1, h2, h3{ /* controls headers 1-3 */
     color: #45b545;
-    text-align: left;
+    text-align: center;
+    margin: 20px auto;
 }
 
 h1 { /* cascaded style for h1 that outranks previous style for h1-3 */
     text-align: center;
     font-size: 4em;
     font-style: normal;
+    text-shadow: 3px 3px 5px #577F57;
 }
 
-p, a { /* style for all paragraphs */
+article { /* style for all paragraphs */
     color: #665544;
-    margin-left: 1.1em;
+    text-align: center
+}
+
+h3, p, ul, ol{
+    width: 700px;
+    margin: 10px auto;
+    text-align: left;
 }
 
 strong { /* intended for styling lists */
@@ -52,20 +57,62 @@ em { /* intended for styling business names */
     color: #45b545;
 }
 
-a { /* styles resting links */
-    text-decoration: none;
-    color: #348888;
+
+/* Styles for Navigation */
+ul.navigation {
+    list-style-type: none;
+    text-align: center;
+    width: 800px;
+    border-top: 2px solid #665544;
+    border-bottom: 1px solid #665544;
+    padding: 0;
+    margin: 0 auto;
 }
 
+li.navigation{
+    text-align: center;
+    display: inline;
+}
+/* Styles for Images */
+figure{
+    display: block;
+    text-align: center;
+}
+figcaption{
+    font-size: .5em;
+    padding: 0;
+    text-align:center;
+}
+/* Styles for LINKS */
+a { /* styles resting links */
+    text-decoration: none;
+    color: #45b545;
+    margin-left: 1.1em;
+}
 a:hover { /* styles links with cursor hovering over them */
     text-decoration: underline;
     color: #577F57;
 }
-
-a:visited {
-    text-decoration: ;
+a:active{
+    text-decoration: none;
+    color: #45b545;
 }
-
+a:visited {
+    text-decoration: none;
+    color: #577F57;
+}
+aside, aside h2, aside p{
+    font-size: inherit;
+    margin: 0 auto;
+    text-align: center;
+}
+aside ul{
+    font-size: 1em;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    display: inline;
+}
 footer { /* aligns footer to center */
     text-align: center;
 }

@@ -4,6 +4,7 @@
     <list default="true" id="fbc13265-2df3-4195-bbbc-35df1cc9aad4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/Stylesheet.css" afterPath="$PROJECT_DIR$/CSS/Stylesheet.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DWS1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,21 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="69.375">
-              <caret line="102" column="33" selection-start-line="102" selection-start-column="33" selection-end-line="102" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.7474049">
+              <caret line="197" column="24" selection-start-line="197" selection-start-column="24" selection-end-line="197" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Stylesheet.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Stylesheet.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSS/Stylesheet.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23847377">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="111" column="14" selection-start-line="111" selection-start-column="14" selection-end-line="111" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -64,8 +65,8 @@
         <option value="$PROJECT_DIR$/README.ts" />
         <option value="$PROJECT_DIR$/Project 1/Pylant-John-Project1.html" />
         <option value="$PROJECT_DIR$/Stylesheet.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/CSS/Stylesheet.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -275,18 +276,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/CSS/Stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="69.375">
-          <caret line="102" column="33" selection-start-line="102" selection-start-column="33" selection-end-line="102" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="111" column="14" selection-start-line="111" selection-start-column="14" selection-end-line="111" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/Stylesheet.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23847377">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.7474049">
+          <caret line="197" column="24" selection-start-line="197" selection-start-column="24" selection-end-line="197" selection-end-column="24" />
           <folding />
         </state>
       </provider>
