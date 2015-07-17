@@ -2,8 +2,24 @@ body {
     font-family: Arial, Verdana, sans-serif;
 }
 
-Headings
-    color #45b545
+#container {
+    border: 1px solid #665544;
+    background-color: #f3f2e8;
+    padding : 10px;
+}
 
-Background
-    color #f4f3df
+h1, h2, h3{
+    color: #45b545;
+}
+
+p {
+    color: #665544;
+}
+
+strong {
+    color: #45b545;
+}
+
+em {
+    color: #45b545;
+}
