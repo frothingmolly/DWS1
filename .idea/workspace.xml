@@ -2,8 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbc13265-2df3-4195-bbbc-35df1cc9aad4" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/LG/hourglass schizandra.png" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/LG/Fndrs KBS.JPG" afterPath="$PROJECT_DIR$/Images/LG/Fndrs KBS.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/LG/Hourglass Front.JPG" afterPath="$PROJECT_DIR$/Images/LG/Hourglass Front.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/LG/Hourglass Tanks.JPG" afterPath="$PROJECT_DIR$/Images/LG/Hourglass Tanks.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/LG/Terrapin Anniv Carnival.JPG" afterPath="$PROJECT_DIR$/Images/LG/Terrapin Anniv Carnival.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/LG/Terrapin Carnival.JPG" afterPath="$PROJECT_DIR$/Images/LG/Terrapin Carnival.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Images/LG/Terrapin Fermenters.JPG" afterPath="$PROJECT_DIR$/Images/LG/Terrapin Fermenters.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/LG/Blue Tarp.jpg" afterPath="$PROJECT_DIR$/Images/LG/Blue Tarp.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/Blue TarpSM.jpg" afterPath="$PROJECT_DIR$/Images/Blue TarpSM.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/LG/CC Athena.jpg" afterPath="$PROJECT_DIR$/Images/LG/CC Athena.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/CC AthenaSM.jpg" afterPath="$PROJECT_DIR$/Images/CC AthenaSM.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/LG/Fisticuffs.jpg" afterPath="$PROJECT_DIR$/Images/LG/Fisticuffs.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/FisticuffsSM.jpg" afterPath="$PROJECT_DIR$/Images/FisticuffsSM.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/Fndrs KBSsm.jpg" afterPath="$PROJECT_DIR$/Images/Fndrs KBSsm.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/LG/GA Beerfest.jpg" afterPath="$PROJECT_DIR$/Images/LG/GA Beerfest.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/GA BeerfestSM.jpg" afterPath="$PROJECT_DIR$/Images/GA BeerfestSM.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/LG/Gloves LG.png" afterPath="$PROJECT_DIR$/Images/LG/Gloves LG.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/Gloves.png" afterPath="$PROJECT_DIR$/Images/Gloves.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/LG/HOP.png" afterPath="$PROJECT_DIR$/Images/LG/HOP.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/HOPsm.png" afterPath="$PROJECT_DIR$/Images/HOPsm.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/LG/HoneySuckle.jpg" afterPath="$PROJECT_DIR$/Images/LG/HoneySuckle.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/HoneySuckleSM.jpg" afterPath="$PROJECT_DIR$/Images/HoneySuckleSM.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/Hourglass FrontSM.jpg" afterPath="$PROJECT_DIR$/Images/Hourglass FrontSM.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/Hourglass TanksSM.jpg" afterPath="$PROJECT_DIR$/Images/Hourglass TanksSM.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/LG/Mexican Cake.jpg" afterPath="$PROJECT_DIR$/Images/LG/Mexican Cake.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/Mexican CakeSM.jpg" afterPath="$PROJECT_DIR$/Images/Mexican CakeSM.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/LG/POSTCARD.jpg" afterPath="$PROJECT_DIR$/Images/LG/POSTCARD.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/POSTCARDsm.jpg" afterPath="$PROJECT_DIR$/Images/POSTCARDsm.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/Terrapin Anniv CarnivalSM.jpg" afterPath="$PROJECT_DIR$/Images/Terrapin Anniv CarnivalSM.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/Terrapin CarnivalSM.jpg" afterPath="$PROJECT_DIR$/Images/Terrapin CarnivalSM.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/Terrapin FermentersSM.jpg" afterPath="$PROJECT_DIR$/Images/Terrapin FermentersSM.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/Terrapin Sign ALT.jpg" afterPath="$PROJECT_DIR$/Images/Terrapin Sign ALT.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/LG/Terrapin Sign.jpg" afterPath="$PROJECT_DIR$/Images/LG/Terrapin Sign.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/LG/Wrecking Bar.jpg" afterPath="$PROJECT_DIR$/Images/LG/Wrecking Bar.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/Wrecking BarSM.jpg" afterPath="$PROJECT_DIR$/Images/Wrecking BarSM.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/hourglass schizandraSM.jpg" afterPath="$PROJECT_DIR$/Images/hourglass schizandraSM.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/Stylesheet.css" afterPath="$PROJECT_DIR$/CSS/Stylesheet.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DWS1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,21 +61,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9342561">
-              <caret line="42" column="105" selection-start-line="0" selection-start-column="0" selection-end-line="311" selection-end-column="7" />
+            <state vertical-scroll-proportion="-8.958333">
+              <caret line="296" column="32" selection-start-line="296" selection-start-column="32" selection-end-line="296" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Stylesheet.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Stylesheet.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CSS/Stylesheet.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="36" column="22" selection-start-line="0" selection-start-column="0" selection-end-line="133" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.24916944">
+              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -64,8 +101,10 @@
         <option value="$PROJECT_DIR$/README.ts" />
         <option value="$PROJECT_DIR$/Project 1/Pylant-John-Project1.html" />
         <option value="$PROJECT_DIR$/Stylesheet.css" />
-        <option value="$PROJECT_DIR$/CSS/Stylesheet.css" />
+        <option value="$PROJECT_DIR$/CSS/C&amp;P.css" />
+        <option value="$PROJECT_DIR$/C&amp;P.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/CSS/Stylesheet.css" />
       </list>
     </option>
   </component>
@@ -77,7 +116,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="45" />
+    <option name="x" value="3" />
+    <option name="y" value="32" />
     <option name="width" value="1434" />
     <option name="height" value="775" />
   </component>
@@ -104,8 +144,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -221,7 +261,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="45" width="1434" height="775" extended-state="0" />
+    <frame x="3" y="32" width="1434" height="775" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -262,6 +302,38 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="105" selection-start-line="0" selection-start-column="0" selection-end-line="311" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/Stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="105" selection-start-line="0" selection-start-column="0" selection-end-line="311" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/Stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="287" column="8" selection-start-line="287" selection-start-column="8" selection-end-line="287" selection-end-column="8" />
           <folding />
         </state>
@@ -271,22 +343,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33227345">
           <caret line="51" column="22" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.958333">
+          <caret line="296" column="32" selection-start-line="296" selection-start-column="32" selection-end-line="296" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PYLANT_JOHNATHAN_WIP/CSS/Stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.7201908">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/Stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="22" selection-start-line="0" selection-start-column="0" selection-end-line="133" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9342561">
-          <caret line="42" column="105" selection-start-line="0" selection-start-column="0" selection-end-line="311" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.24916944">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
           <folding />
         </state>
       </provider>

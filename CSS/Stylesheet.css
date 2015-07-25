@@ -1,134 +1,223 @@
-body { /* overall style for page */
+body {
+    /* overall style for page */
     font-family: Montserrat, Oxygen, Arial, Verdana, sans-serif;
     font-size: 1.2em;
     font-weight: 400;
     font-style: normal;
     line-height: 25px;
-    text-align: left;
+    text-align: justify;
     margin: 0 auto;
-}
+    background-image: url("Images/HOPonly.png");
+    background-repeat: repeat;
+    background-position: top;
+    background-attachment: fixed;
+    width: 90%;}
 
-#container { /* style for div/container */
-    border: 1px solid #665544;
+/* style for div/container */
+#container {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f3f2e8+0,efe7a7+27,efdb43+100 */
+    background: #f3f2e8; /* Old browsers */
+    background: linear-gradient(to bottom,  #f3f2e8 0%,#efe7a7 27%,#efdb43 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f3f2e8', endColorstr='#efdb43',GradientType=0 ); /* IE6-9 */
+    padding: 0;
+    width: 100%;
+    margin: inherit;
+    overflow: auto;
+    border: 2px solid #577F57;}
+
+/*Affixing Logo, Header and Navigation to top of page and setting as Fixed*/
+#heading {
+    position: fixed;
+    top: 0;
+    padding: 10px 0;
+    margin: 0 auto;
+    width: 90%;
     background-color: #f3f2e8;
-    color: #577F57;
-    padding : 10px;
-}
+    border-top: 2px solid #577F57;
+    display: block;}
 
-IMG.Logo{ /* Logo on top and bottom of page are centered */
+/* Styles for Navigation */
+ul.navigation {
+    text-align: center;
+    margin: 0 auto;
+    border: 1px solid #577F57;
+    padding: 10px 25px;
+    background: #45b545;
+    width: 60%;
+    border-radius: 15px;
+    box-shadow: 0 3px 10px #577F57;}
+
+/*Corrects formatting of list text for Navigation specifically*/
+li.navigation{
+    text-align: center;
+    display: inline;  }
+
+/* style for all paragraphs */
+article {
+    color: #665544;
+    font-family: inherit;
+    font-size: inherit;
+    text-align: left;
+    padding: 0 0 10px 15px;
+    margin: 0 auto;
+    width: 100%;}
+
+/* Styles for LINKS */
+a:link{
+    text-decoration: none;
+    font-family: inherit;
+    font-size: inherit;
+    color: #fffff0;
+    margin-left: 2%;  }
+a:visited {
+    text-decoration: none;
+    font-family: inherit;
+    font-size: inherit;
+    color: #577F57;  }
+a:hover {
+    text-decoration: underline;
+    font-family: inherit;
+    font-size: inherit;
+    color: #577F57;  }
+a:active{
+    text-decoration: none;
+    font-family: inherit;
+    font-size: inherit;
+    color: #45b545;  }
+
+
+/*Creates style for linked images*/
+a.ImageURL:hover {
+    opacity: 0.6;
+    display: inline-block;  }
+
+/* Logo on top and bottom of page are centered */
+IMG.Logo{
     margin-left: auto;
     margin-right: auto;
     display: block;
-}
+    padding: 0 0 10px 0;  }
 
-h1, h2, h3{ /* controls headers 1-3 */
+/*Removes bullets from unordered lists*/
+ul{
+    font-family: inherit;
+    font-size: inherit;
+    list-style-type: square;
+    display: block; }
+
+/* intended for styling lists */
+strong {
+    color: #577F57;  }
+
+/* intended for styling business names */
+em {
+    color: #348888;  }
+
+/* intended for styling "hop hitter" business name separate from other businesses mentioned */
+.Name {
+    color: #45b545;  }
+
+
+
+/*Used with 'embedded' paragraph images*/
+img.medium{
+    width: 100%;
+    height: 213px;  }
+/* Creates option for floating images with text*/
+img.align-left {
+    float: left;
+    padding: 0 10px 0 0;  }
+
+/* controls h1, h2, h3 styles */
+h1, h2, h3{
     color: #45b545;
+    text-align: left;
+    margin: 2% auto;
+    font-weight: 700;  }
+
+h1 {
+    font: Oxygen;
+    font-weight: 400;
     text-align: center;
-    margin: 20px auto;
-    font-weight: 700;
+    font-size: 2em;
+    font-style: normal;
+    padding: 0;
 }
 
-h1 { /* cascaded style for h1 that outranks previous style for h1-3 */
+/* cascaded style for h1 that outranks previous style for h1-3 */
+h1.Name {
     font: Oxygen;
     font-weight: 400;
     text-align: center;
     font-size: 4em;
     font-style: normal;
     text-shadow: 2px 2px 5px #577F57;
-}
+    padding: 0;  }
 
-article { /* style for all paragraphs */
-    color: #665544;
-    text-align: center;
-}
+/*Controls width and alignment of h3 and lists*/
+.content.h3, ul, ol{
+    width: 100%;
+    text-align: left;  }
 
-h3, p, ul, ol{
-    width: 750px;
-    margin: 10px auto;
-    text-align: left;
-}
+/*Inserting non-repeating background as icon next to h2*/
+.icon {
+    background-image: url("Images/HOPonly.png");
+    background-repeat: no-repeat;
+    background-position: left center;
+    height: 49px;
+    padding: 21px 0 0 32px;  }
 
-strong { /* intended for styling lists */
-    color: #577F57;
-}
-
-em { /* intended for styling business names */
-    color: #348888;
-}
-
-.Name { /* intended for styling "hop hitter" business name separate from other businesses mentioned */
-    color: #45b545;
-}
-/* List Width */
-ul{
-    list-style-type: none;
-    width: 600px;
-}
-/* Styles for Navigation */
-ul.navigation {
-    text-align: center;
-    /*width: 800px;
-    border-top: 2px solid #665544;
-    border-bottom: 1px solid #665544;
-    padding: 0; */
-    margin: 0 auto;
-    border: 2px solid #577F57;
-    padding: 10px 40px;
-    background: #45b545;
-    width: 800px;
-    border-radius: 15px;
-    box-shadow: 0 3px 10px #577F57;
-}
-
-li.navigation, li a{
-    text-align: center;
-    display: inline;
-    color: #fffff0;
-}
 /* Styles for Images */
 figure{
     display: block;
-    text-align: center;
-}
+    text-align: left;
+    width: 100%;}
+
+/*Image caption settings*/
 figcaption{
+    font-family: inherit;
     font-size: .5em;
     padding: 0;
-    text-align:center;
+    text-align:left;  }
+
+/*ColumnA for two column system with margin to pull off of edge*/
+#content {
+    float: left;
+    width: 53%;
+    margin: 10% 0 0 0;
+    padding: 0;
 }
-/* Styles for LINKS */
-a { /* styles resting links */
-    text-decoration: none;
-    color: #45b545;
-    margin-left: 1.1em;
-}
-a:hover { /* styles links with cursor hovering over them */
-    text-decoration: underline;
-    color: #577F57;
-}
-a:active{
-    text-decoration: none;
-    color: #45b545;
-}
-a:visited {
-    text-decoration: none;
-    color: #577F57;
-}
-a.ImageURL:hover {
-    opacity: 0.6;
-    display: inline-block;
-}
-aside, aside h2, aside p{
+
+/*ColumnB for two column system*/
+#sidebar{
+    float: left;
+    width: 33.3%;
+    margin: 63% 0 0 12%;
+    border: 2px solid #577F57;
+    padding: 0;
+    clear: none;}
+
+/* aligns footer to center */
+footer {
+    font-family: inherit;
     font-size: inherit;
-    margin: 0 auto;
     text-align: center;
+    color: #45b545;
+    padding: 0;
+    margin: 0 auto 0 1.5%;
+    width: 100%;
+    bottom: 0}
+
+aside {
+    font-size: inherit;
+    margin: 0 auto 0 auto;
+    text-align: left;
 }
-aside ul{
+
+aside.ul {
+    font-family: inherit;
     font-size: 1em;
     padding: 0;
     margin: 0;
-    text-align: center;
-    display: inline;
-}
-footer { /* aligns footer to center */
-    text-align: center;
+    text-align: left;
 }
