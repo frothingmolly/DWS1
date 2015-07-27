@@ -5,13 +5,13 @@ body {
     font-weight: 400;
     font-style: normal;
     line-height: 25px;
-    text-align: justify;
+    text-align: left;
     margin: 0 auto;
     background-image: url("Images/HOPonly.png");
     background-repeat: repeat;
     background-position: top;
     background-attachment: fixed;
-    width: 90%;}
+    width: 90%; }
 
 /* style for div/container */
 #container {
@@ -21,37 +21,33 @@ body {
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f3f2e8', endColorstr='#efdb43',GradientType=0 ); /* IE6-9 */
     padding: 0;
     width: 100%;
-    margin: inherit;
+    margin: 0 auto;
     overflow: auto;
-    border: 2px solid #577F57;}
+    border: 2px solid #577F57;  }
 
 /*Affixing Logo, Header and Navigation to top of page and setting as Fixed*/
 #heading {
-    position: fixed;
     top: 0;
     padding: 10px 0;
     margin: 0 auto;
     width: 90%;
-    background-color: #f3f2e8;
-    border-top: 2px solid #577F57;
-    display: block;}
+    display: block; }
 
 /* Styles for Navigation */
 ul.navigation {
     text-align: center;
-    margin: 0 auto;
     border: 1px solid #577F57;
-    padding: 10px 25px;
     background: #45b545;
     width: 60%;
     border-radius: 15px;
-    box-shadow: 0 3px 10px #577F57;}
+    box-shadow: 0 3px 10px #577F57;
+    padding: 10px 25px;
+    margin: 5% auto;    }
 
 /*Corrects formatting of list text for Navigation specifically*/
 li.navigation{
     text-align: center;
     display: inline;  }
-
 /* style for all paragraphs */
 article {
     color: #665544;
@@ -60,7 +56,7 @@ article {
     text-align: left;
     padding: 0 0 10px 15px;
     margin: 0 auto;
-    width: 100%;}
+    width: 100%;    }
 
 /* Styles for LINKS */
 a:link{
@@ -84,7 +80,6 @@ a:active{
     font-family: inherit;
     font-size: inherit;
     color: #45b545;  }
-
 
 /*Creates style for linked images*/
 a.ImageURL:hover {
@@ -117,8 +112,6 @@ em {
 .Name {
     color: #45b545;  }
 
-
-
 /*Used with 'embedded' paragraph images*/
 img.medium{
     width: 100%;
@@ -141,8 +134,7 @@ h1 {
     text-align: center;
     font-size: 2em;
     font-style: normal;
-    padding: 0;
-}
+    padding: 0;  }
 
 /* cascaded style for h1 that outranks previous style for h1-3 */
 h1.Name {
@@ -171,7 +163,9 @@ h1.Name {
 figure{
     display: block;
     text-align: left;
-    width: 100%;}
+    width: 100%;
+    padding: 0;
+    margin: 0;  }
 
 /*Image caption settings*/
 figcaption{
@@ -184,18 +178,17 @@ figcaption{
 #content {
     float: left;
     width: 53%;
-    margin: 10% 0 0 0;
-    padding: 0;
-}
+    margin: 0 auto;
+    padding: 0;  }
 
 /*ColumnB for two column system*/
 #sidebar{
     float: left;
     width: 33.3%;
-    margin: 63% 0 0 12%;
+    margin: 45% auto auto 12%;
     border: 2px solid #577F57;
     padding: 0;
-    clear: none;}
+    clear: none;    }
 
 /* aligns footer to center */
 footer {
@@ -206,18 +199,15 @@ footer {
     padding: 0;
     margin: 0 auto 0 1.5%;
     width: 100%;
-    bottom: 0}
+    bottom: 0   }
 
 aside {
     font-size: inherit;
     margin: 0 auto 0 auto;
-    text-align: left;
-}
+    text-align: left;  }
 
 aside.ul {
     font-family: inherit;
     font-size: 1em;
     padding: 0;
-    margin: 0;
-    text-align: left;
-}
+    margin: 0 auto; }
