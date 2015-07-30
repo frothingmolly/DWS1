@@ -38,7 +38,7 @@ ul.navigation {
     text-align: center;
     border: 1px solid #577F57;
     background: #45b545;
-    width: 60%;
+    width: 65%;
     border-radius: 15px;
     box-shadow: 0 3px 10px #577F57;
     padding: 10px 25px;
@@ -217,15 +217,27 @@ aside.ul {
     padding: 0;
     margin: 0 auto; }
 
+#facts{
+    width: 100%;
+    font-size: 1em;
+    padding: 0 0 0 45px;
+}
+
+table{
+    border: 2px solid #577F57;
+    border-collapse: collapse;
+    background-color: #f3f2e8;
+    padding: 0 auto;
+
+}
 
 .tablefacts {
     text-align: right;
-    padding: 0 auto;
 }
 
 .rowhead {
     text-align: left;
-    padding: 0 0 0 45px;
+    padding: 0 auto;
 }
 
 tfoot {
@@ -233,15 +245,12 @@ tfoot {
     font-family: inherit;
     font-size: .5em;
     margin: 0 auto;
-    padding: 0 auto;
 }
 
 td {
     text-align: right;
     font-family: inherit;
-    font-size: 1em;
     margin: 0 auto;
-    padding: 0 auto;
 }
 
 #colone {
@@ -249,5 +258,10 @@ td {
     padding: 0 0 0 45px;
 }
 
+.subject {
+    border-bottom: 2px solid #577F57;
+}
 
-
+tr:hover {
+    opacity: 0.6;
+      }
