@@ -189,9 +189,8 @@ figcaption{
 /*ColumnB for two column system*/
 #sidebar{
     float: left;
-    width: 33.3%;
-    margin: 45% auto auto 12%;
-    border: 2px solid #577F57;
+    width: 25%;
+    margin: 50% auto auto 12%;
     padding: 0;
     clear: none;    }
 
@@ -209,13 +208,21 @@ footer {
 aside {
     font-size: inherit;
     margin: 0 auto 0 auto;
-    text-align: left;  }
+    text-align: left;
+}
 
 aside.ul {
     font-family: inherit;
     font-size: 1em;
     padding: 0;
     margin: 0 auto; }
+
+#resources{
+    border: 2px solid #577F57;
+}
+#asidetitle{
+    text-align: center;
+}
 
 #facts{
     width: 100%;

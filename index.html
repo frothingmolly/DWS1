@@ -332,8 +332,8 @@
 <!--Resoureces for more information on beer-->
             </div> <!--Content div closed-->
             <div id="sidebar">
-                <aside>
-                    <h2> Helpful Resources</h2>
+                <aside id="resources">
+                    <h2 id="asidetitle">Helpful Resources</h2>
                         <ul>
                             <li><a href="http://www.craftbeer.com">Brewer's Association</a></li>
                             <li><a href="http://cicerone.org">Circerone Official Website</a></li>
@@ -343,6 +343,16 @@
                             <li><a href="https://untappd.com">Untappd</a></li>
                         </ul>
                 </aside>
+                <form action="http://www.example.com/login.php">
+                    <p>What is your favorite style?
+                        <br/>
+                        <input type="radio" name="favorite" value="Lager"/> Lager
+                        <input type="radio" name="favorite" value="Pale Ale"/> Pale Ale
+                        <input type="radio" name="favorite" value="IPA"/> IPA
+                        <input type="radio" name="favorite" value="Stout"/> Stout
+                        <input type="text" name="favorite" value="Other"/>
+                    </p>
+                </form>
             </div> <!--Sidebar div cosed-->
         </div> <!--Content div closed-->
         <div id="footing">
