@@ -126,7 +126,12 @@ h1, h2, h3{
     color: #45b545;
     text-align: left;
     margin: 2% auto;
-    font-weight: 700;  }
+    font-weight: 700;
+    }
+
+#craft, #Work{
+    padding: 35px 0 0 50px;
+}
 
 h1 {
     font: Oxygen;
@@ -157,22 +162,22 @@ h1.Name {
     background-repeat: no-repeat;
     background-position: left center;
     height: 49px;
-    padding: 21px 0 0 32px;  }
+      }
 
 /* Styles for Images */
 figure{
     display: block;
     text-align: left;
     width: 100%;
-    padding: 0;
+    padding: 0 0 10px 0;
     margin: 0;  }
 
 /*Image caption settings*/
 figcaption{
     font-family: inherit;
     font-size: .5em;
-    padding: 0;
-    text-align:left;  }
+    text-align:left;
+    padding: 0 0 0 15px;}
 
 /*ColumnA for two column system with margin to pull off of edge*/
 #content {
@@ -211,3 +216,38 @@ aside.ul {
     font-size: 1em;
     padding: 0;
     margin: 0 auto; }
+
+
+.tablefacts {
+    text-align: right;
+    padding: 0 auto;
+}
+
+.rowhead {
+    text-align: left;
+    padding: 0 0 0 45px;
+}
+
+tfoot {
+    text-align: left;
+    font-family: inherit;
+    font-size: .5em;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+td {
+    text-align: right;
+    font-family: inherit;
+    font-size: 1em;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+#colone {
+    text-align: left;
+    padding: 0 0 0 45px;
+}
+
+
+
