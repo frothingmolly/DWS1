@@ -11,7 +11,8 @@ body {
     background-repeat: repeat;
     background-position: top;
     background-attachment: fixed;
-    width: 90%; }
+    width: 90%;
+}
 
 /* style for div/container */
 #container {
@@ -23,15 +24,17 @@ body {
     width: 100%;
     margin: 0 auto;
     overflow: auto;
-    border: 2px solid #577F57;  }
+    border: 2px solid #577F57;
+}
 
-/*Affixing Logo, Header and Navigation to top of page and setting as Fixed*/
+/* Heading attributes*/
 #heading {
     top: 0;
     padding: 10px 0;
     margin: 0 auto;
     width: 90%;
-    display: block; }
+    display: block;
+}
 
 /* Styles for Navigation */
 ul.navigation {
@@ -42,12 +45,15 @@ ul.navigation {
     border-radius: 15px;
     box-shadow: 0 3px 10px #577F57;
     padding: 10px 25px;
-    margin: 5% auto;    }
+    margin: 5% auto;
+}
 
 /*Corrects formatting of list text for Navigation specifically*/
 li.navigation{
     text-align: center;
-    display: inline;  }
+    display: inline;
+}
+
 /* style for all paragraphs */
 article {
     color: #665544;
@@ -56,7 +62,8 @@ article {
     text-align: left;
     padding: 0 0 10px 15px;
     margin: 0 auto;
-    width: 100%;    }
+    width: 100%;
+}
 
 /* Styles for LINKS */
 a:link{
@@ -64,62 +71,76 @@ a:link{
     font-family: inherit;
     font-size: inherit;
     color: #fffff0;
-    margin-left: 2%;  }
+    margin-left: 2%;
+}
+
 a:visited {
     text-decoration: none;
     font-family: inherit;
     font-size: inherit;
-    color: #577F57;  }
+    color: #577F57;
+}
 a:hover {
     text-decoration: underline;
     font-family: inherit;
     font-size: inherit;
-    color: #577F57;  }
+    color: #577F57;
+}
 a:active{
     text-decoration: none;
     font-family: inherit;
     font-size: inherit;
-    color: #45b545;  }
+    color: #45b545;
+}
 
 /*Creates style for linked images*/
 a.ImageURL:hover {
     opacity: 0.6;
-    display: inline-block;  }
+    display: inline-block;
+}
 
 /* Logo on top and bottom of page are centered */
 IMG.Logo{
     margin-left: auto;
     margin-right: auto;
     display: block;
-    padding: 0 0 10px 0;  }
+    padding: 0 0 10px 0;
+}
 
 /*Removes bullets from unordered lists*/
 ul{
     font-family: inherit;
     font-size: inherit;
     list-style-type: square;
-    display: block; }
+    display: block;
+}
 
 /* intended for styling lists */
 strong {
-    color: #577F57;  }
+    color: #577F57;
+}
 
 /* intended for styling business names */
 em {
-    color: #348888;  }
+    color: #348888;
+}
 
 /* intended for styling "hop hitter" business name separate from other businesses mentioned */
 .Name {
-    color: #45b545;  }
+    color: #45b545;
+}
 
 /*Used with 'embedded' paragraph images*/
 img.medium{
     width: 100%;
-    height: 213px;  }
+    height: 213px;
+}
+
 /* Creates option for floating images with text*/
 img.align-left {
     float: left;
-    padding: 0 10px 0 0;  }
+    padding: 0 10px 0 0;
+}
 
 /* controls h1, h2, h3 styles */
 h1, h2, h3{
@@ -127,7 +148,7 @@ h1, h2, h3{
     text-align: left;
     margin: 2% auto;
     font-weight: 700;
-    }
+}
 
 #craft, #Work{
     padding: 35px 0 0 50px;
@@ -139,7 +160,8 @@ h1 {
     text-align: center;
     font-size: 2em;
     font-style: normal;
-    padding: 0;  }
+    padding: 0;
+}
 
 /* cascaded style for h1 that outranks previous style for h1-3 */
 h1.Name {
@@ -149,12 +171,14 @@ h1.Name {
     font-size: 4em;
     font-style: normal;
     text-shadow: 2px 2px 5px #577F57;
-    padding: 0;  }
+    padding: 0;
+}
 
 /*Controls width and alignment of h3 and lists*/
 .content.h3, ul, ol{
     width: 100%;
-    text-align: left;  }
+    text-align: left;
+}
 
 /*Inserting non-repeating background as icon next to h2*/
 .icon {
@@ -162,7 +186,7 @@ h1.Name {
     background-repeat: no-repeat;
     background-position: left center;
     height: 49px;
-      }
+}
 
 /* Styles for Images */
 figure{
@@ -170,21 +194,77 @@ figure{
     text-align: left;
     width: 100%;
     padding: 0 0 10px 0;
-    margin: 0;  }
+    margin: 0;
+}
 
 /*Image caption settings*/
 figcaption{
     font-family: inherit;
     font-size: .5em;
     text-align:left;
-    padding: 0 0 0 15px;}
+    padding: 0 0 0 15px;
+}
+
+/* table content attributes*/
+#facts{
+    width: 100%;
+    font-size: 1em;
+    padding: 0 0 0 45px;
+}
+
+/* table's main attributes*/
+table{
+    border: 2px solid #577F57;
+    border-collapse: collapse;
+    background-color: #f3f2e8;
+    padding: 0;
+}
+
+/* aligns subject headings to right and gives border*/
+.subject {
+    text-align: right;
+    border-bottom: 2px solid #577F57;
+}
+
+/* aligns subject headings to right*/
+.rowhead {
+    text-align: left;
+    padding: 0;
+}
+
+/* table disclaimer attributes*/
+tfoot {
+    text-align: left;
+    font-family: inherit;
+    font-size: .5em;
+    margin: 0 auto;
+}
+
+/* aligns table subcontent headings to right*/
+td {
+    text-align: right;
+    font-family: inherit;
+    margin: 0 auto;
+}
+
+/* aligns column one heading to left*/
+#colone {
+    text-align: left;
+    padding: 0 0 0 45px;
+}
+
+/* provides hovering state for rows in table */
+tr:hover {
+    opacity: 0.6;
+}
 
 /*ColumnA for two column system with margin to pull off of edge*/
 #content {
     float: left;
     width: 53%;
     margin: 0 auto;
-    padding: 0;  }
+    padding: 0;
+}
 
 /*ColumnB for two column system*/
 #sidebar{
@@ -192,7 +272,8 @@ figcaption{
     width: 25%;
     margin: 50% auto auto 12%;
     padding: 0;
-    clear: none;    }
+    clear: none;
+}
 
 /* aligns footer to center */
 footer {
@@ -203,72 +284,95 @@ footer {
     padding: 0;
     margin: 0 auto 0 1.5%;
     width: 100%;
-    bottom: 0   }
+    bottom: 0
+}
 
+/* Aside's attributes*/
 aside {
     font-size: inherit;
     margin: 0 auto 0 auto;
     text-align: left;
 }
 
+/* Aside's list attributes*/
 aside.ul {
-    font-family: inherit;
+    font: inherit;
     font-size: 1em;
     padding: 0;
-    margin: 0 auto; }
-
+    margin: 0 auto;
+}
+/* Border for aside*/
 #resources{
     border: 2px solid #577F57;
 }
+/* aligns aside title in center*/
 #asidetitle{
     text-align: center;
 }
 
-#facts{
-    width: 100%;
-    font-size: 1em;
-    padding: 0 0 0 45px;
-}
-
-table{
+/* interactive sidebar content attributes */
+#questions{
     border: 2px solid #577F57;
     border-collapse: collapse;
-    background-color: #f3f2e8;
-    padding: 0 auto;
-
-}
-
-.tablefacts {
-    text-align: right;
-}
-
-.rowhead {
+    background-color: #577F57;
+    padding: 0;
+    color: #efe7a7;
     text-align: left;
-    padding: 0 auto;
-}
-
-tfoot {
-    text-align: left;
-    font-family: inherit;
-    font-size: .5em;
     margin: 0 auto;
 }
 
-td {
-    text-align: right;
-    font-family: inherit;
+/* aligns age title to center */
+#age{
+    text-align: center;
+}
+
+/* input attributes */
+input{
+    display: block;
+    width: 35%;
+    font: 1em;
+}
+
+/* submit button attributes */
+#submit{
+    color: #45b545;
+    font-size: 1em;
+    width: 50%;
+    padding: 5px;
+    margin: 6% auto 0;
+    box-shadow: 0 3px 10px #577F57;
+    border: 2px solid #577F57;
+    border-radius: 15px;
+    background-color: #fffff0;
+}
+
+/* text box attributes */
+#mail, #other{
+    width: 50%;
+    padding: 0;
+    margin: 2%;
+    font-size: 1em;
+}
+
+/* submit button hover state */
+#submit:hover, #mail:hover, #other:hover{
+    border: 2px solid #f3f2e8;
+    font-size: 1em;
+    color: #fffff0;
+    background-color: #efdb43;
+}
+
+/* text box focus state */
+#mail:focus, #other:focus {
+    border: 2px solid #efdb43;
+    color: #577F57;
+}
+
+#comment{
+    float: left;
+    width: 100%;
+    padding: 0;
     margin: 0 auto;
+    font-size: 1em;
 }
 
-#colone {
-    text-align: left;
-    padding: 0 0 0 45px;
-}
-
-.subject {
-    border-bottom: 2px solid #577F57;
-}
-
-tr:hover {
-    opacity: 0.6;
-      }

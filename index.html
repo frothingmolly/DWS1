@@ -91,9 +91,9 @@
                             </li>
                         </ol>
                         <section id="facts">
+                        <h3>Facts About Common Beer Styles</h3>
                         <table>
-                                <thead class="tablefacts"><strong>FACTS ON COMMON BEER STYLES<strong></thead>
-                                <thead class="tablefacts">
+                                <thead>
                                     <tr>
                                         <th id="colone" class="subject" scope="col">STYLE</th>
                                         <th class="subject" scope="col">ABV Range</th>
@@ -104,27 +104,27 @@
                                 <tbody>
                                     <tr>
                                         <th class="rowhead" scope="row">Lager</th>
-                                        <td scope="row">4.2-5.3&#37;</td>
-                                        <td scope="row">2-4&#176;</td>
-                                        <td scope="row">8-15 IBUs</td>
+                                        <td>4.2-5.3&#37;</td>
+                                        <td>2-4&#176;</td>
+                                        <td>8-15 IBUs</td>
                                     </tr>
                                     <tr>
-                                        <th class="rowhead"scope="row">Pale Ale</th>
-                                        <td scope="row">4.4-5.4&#37;</td>
-                                        <td scope="row">6-14&#176;</td>
-                                        <td scope="row">30-50 IBUs</td>
+                                        <th class="rowhead" scope="row">Pale Ale</th>
+                                        <td>4.4-5.4&#37;</td>
+                                        <td>6-14&#176;</td>
+                                        <td>30-50 IBUs</td>
                                     </tr>
                                     <tr>
-                                        <th class="rowhead"scope="row">India Pale Ale</th>
-                                        <td scope="row">6.4-7.5&#37;</td>
-                                        <td scope="row">6-15&#176;</td>
-                                        <td scope="row">50-70 IBUs</td>
+                                        <th class="rowhead" scope="row">India Pale Ale</th>
+                                        <td>6.4-7.5&#37;</td>
+                                        <td>6-15&#176;</td>
+                                        <td>50-70 IBUs</td>
                                     </tr>
                                     <tr>
-                                        <th class="rowhead"scope="row">Stout</th>
-                                        <td scope="row">5.7-8.9&#37;</td>
-                                        <td scope="row">39-40&#176;</td>
-                                        <td scope="row">35-60 IBUs</td>
+                                        <th class="rowhead" scope="row">Stout</th>
+                                        <td>5.7-8.9&#37;</td>
+                                        <td>39-40&#176;</td>
+                                        <td>35-60 IBUs</td>
                                     </tr>
                                 </tbody>
                                 <tfoot id="disclaimer">
@@ -343,14 +343,37 @@
                             <li><a href="https://untappd.com">Untappd</a></li>
                         </ul>
                 </aside>
-                <form action="http://www.example.com/login.php">
+
+                <form id="questions" action="http://www.example.com/login.php">
+                    <p id="age">Are you of legal drinking age?
+                        <label for="legal">Select age range:</label>
+                        <select id="legal" name="age" required="required">
+                            <option value="">-</option>
+                            <option value="twenties">21-29</option>
+                            <option value="thirties">30-39</option>
+                            <option value="forties">40-49</option>
+                            <option value="fiftie">50-59</option>
+                            <option value="old">60 and up</option>
+                        </select>
+                    </p>
+
                     <p>What is your favorite style?
                         <br/>
-                        <input type="radio" name="favorite" value="Lager"/> Lager
-                        <input type="radio" name="favorite" value="Pale Ale"/> Pale Ale
-                        <input type="radio" name="favorite" value="IPA"/> IPA
-                        <input type="radio" name="favorite" value="Stout"/> Stout
-                        <input type="text" name="favorite" value="Other"/>
+                            <label for="lager">Lager</label>
+                                <input id="lager" type="radio" name="favorite" value="Lager"/>
+                            <label for ="pale">Pale Ale</label>
+                                <input id="pale" type="radio" name="favorite" value="Pale Ale"/>
+                            <label for="IPA">IPA</label>
+                                <input id="IPA" type="radio" name="favorite" value="IPA"/>
+                            <label for="stout">Stout</label>
+                                <input id="stout" type="radio" name="favorite" value="Stout"/>
+                            <label for="other">Other</label>
+                                <input id="other" type="text" name="favorite" placeholder="Type Favorite" maxlength="20"/>
+                            <label for="mail">Enter E-Mail below to submit</label>
+                                <input id="mail" type="email" name="email" placeholder="Enter E-Mail" maxlength="60"/>
+                            <label for="comments">Comments</label>
+                            <textarea id="comments" name="comments" cols="40" rows="4">Want to leave a comment too?</textarea>
+                                <input id="submit" type="submit" value="Pour A Glass"/>
                     </p>
                 </form>
             </div> <!--Sidebar div cosed-->
